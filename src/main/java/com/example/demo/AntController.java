@@ -33,7 +33,7 @@ public class AntController {
     @RequestMapping(value = "/create", method = RequestMethod.POST)
     public ResponseEntity createAction() {
 
-        return Optional.ofNullable("Lol").map(ResponseEntity::ok)
+        return Optional.ofNullable("Yarik loh").map(ResponseEntity::ok)
                 .orElse(new ResponseEntity<>(HttpStatus.BAD_REQUEST));
     }
 
