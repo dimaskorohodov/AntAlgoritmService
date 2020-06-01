@@ -1,4 +1,4 @@
-package demo;
+package com.example.algoritm;
 
 import com.example.algoritm.AntController;
 import com.example.algoritm.DataMaodel;
