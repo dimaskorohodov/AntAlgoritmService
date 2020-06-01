@@ -1,8 +1,5 @@
 package com.example.algoritm;
 
-import com.example.algoritm.AntController;
-import com.example.algoritm.DataMaodel;
-import com.example.algoritm.FileManager;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
